@@ -8,5 +8,8 @@
 			"Name": "GPULightmass",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
